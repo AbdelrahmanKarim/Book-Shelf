@@ -1,16 +1,8 @@
-# Book_Shelf
+< Book Shelf  >,Our flutter project , it aims to connect people with each other to buy and sell used books through our marketplace through the app , alongside the new books offered within the app.
 
-A new Flutter project.
 
-## Getting Started
+technologies used : Flutter , Firebase .
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Don't miss to try the app:)
